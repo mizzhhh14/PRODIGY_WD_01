@@ -30,7 +30,7 @@ The website  is optimized for:
 # Purpose
 This project was created to strengthen my frontend web development skills by building a resposnive landing page with modern web design principles and an engaging user experience. 
 
-# Ccontributions
+# Contributions
 Welcoming all suggestions and feedbacks!
 
 #BuildInPublic #WebDev #Frontend
