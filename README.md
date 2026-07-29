@@ -1,7 +1,5 @@
-# PRODIGY_WD_01
+## Petale Responsive Landing Page
 
-# TASK: 01
-# Petale Responsive Landing Page
 A modern and responsive skin care brand (here Petale) landing page designed to showcase skin-care rituals with an elegant and user friendly interface. This project was built using HTML, CSS and JavaScript as part of my web development practice.
 
 # Features
